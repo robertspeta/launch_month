@@ -21,5 +21,5 @@ a time series line graph.
 
 Observation: Although most clients are contacted in October every year, there has been a 
 downward trend from the high set in October 2013 when the number of unique contacts was 31 from 35 clients
-and by 2016 that number was down to 25. It uis assumed that the same number of clients were the same for the whole
-dataset and that new clients were not added, not did clients leave. 
+and by 2016 that number was down to 25. It is assumed that the same number of clients were the same for the whole
+dataset and that new clients were not added, nor did clients leave. 
