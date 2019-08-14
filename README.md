@@ -1,10 +1,10 @@
 # launch_month
 Analysis of data by month
 
-ANALYSIS METHODS
+ANALYSIS METHOD: 
 
-PANDAS  - 
-Saved Google spreadsheet as a CSV file, and imported CSV file, read and loaded into a dataframe.
+USING PANDAS  - 
+I saved the Google spreadsheet as a CSV file, and imported, read and loaded .csb file into a dataframe.
 Created new columns "month" and "month_year" for counts and comparisons.
 Observation: October is the month when the highest percentage of clients are contacted.
 Conclusion: October is the best month to launch.
@@ -21,5 +21,5 @@ a time series line graph.
 
 Observation: Although most clients are contacted in October every year, there has been a 
 downward trend from the high set in October 2013 when the number of unique contacts was 31 from 35 clients
-and by 2016 that number was down to 25. It is assumed that the same number of clients were the same for the whole
+and by 2016 that number was down to 25. It is assumed that the number of clients were the same for the whole
 dataset and that new clients were not added, nor did clients leave. 
